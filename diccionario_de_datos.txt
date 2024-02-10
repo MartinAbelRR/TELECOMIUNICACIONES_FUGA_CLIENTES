@@ -1,0 +1,22 @@
+1.- Diccionario de Datos:
+* Churn: Si el cliente abandonó o no (Sí o No)
+* CustomerID: Identificación del cliente
+* Gender: Si el cliente es hombre o mujer
+SeniorCitizen: Si el cliente es adulto mayor o no
+* Partner:Si el cliente tiene pareja o no (Sí, No)
+* Dependets: Si el cliente tiene dependientes o no (Sí, No)
+Tenure: Número de meses que el cliente ha permanecido en la empresa
+PhoneService: Si el cliente tiene servicio telefónico o no (Sí, No)
+* MultipleLines: Si el cliente tiene varias líneas o no (Sí, No, Sin servicio telefónico)
+* InternetService: Proveedor de servicios de Internet del cliente (DSL, Fibra óptica, No)
+* OnlineSecurity: Si el cliente tiene seguridad en línea o no (Sí, No, Sin servicio de Internet)
+* OnlineBackup: Si el cliente tiene respaldo en línea o no (Sí, No, Sin servicio de Internet)
+* DeviceProtection: Si el cliente tiene protección de dispositivo o no (Sí, No, Sin servicio de Internet)
+* TechSupport: Si el cliente cuenta con soporte técnico o no (Sí, No, Sin servicio de internet)
+* StreamingTV: Si el cliente tiene transmisión de TV o no (Sí, No, Sin servicio de Internet)
+* StreamingMovies: Si el cliente tiene películas en streaming o no (Sí, No, Sin servicio de Internet)
+* Contract: El plazo del contrato del cliente (Mes a mes, Un año, Dos años)
+* Paperlessbilling: Si el cliente tiene facturación electrónica o no (Sí, No)
+* PaymentMethod: El método de pago del cliente (Cheque electrónico, Cheque enviado por correo, Transferencia bancaria
+MonthlyChargues: El monto cobrado al cliente mensualmente
+TotalChargues: El importe total cobrado al cliente.
